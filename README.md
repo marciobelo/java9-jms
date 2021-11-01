@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Existe desde o Java 9 - projeto Jigsaw.
+O JPMS (*Java Platform Module System*, antes conhecido como projeto *Jigsaw*) existe desde o Java 9.
 
 ## Referências
 
